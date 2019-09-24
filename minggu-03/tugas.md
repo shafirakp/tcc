@@ -13,4 +13,4 @@ Istilah ini belakangan mulai lebih dipilih kalangan industri terkait sebagai pen
 
 #Arsitektur Saas
 
-![](image-03/Arsitektur.png)
+![](./Arsitektur.png)
