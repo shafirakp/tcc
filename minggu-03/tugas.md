@@ -5,12 +5,12 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
 
 Istilah ini belakangan mulai lebih dipilih kalangan industri terkait sebagai pengganti istilah penyedia layanan aplikasi dan on-demand (sesuai permintaan).
 
-#Contoh Aplikasi SaaS (Software as a Service)
+# Contoh Aplikasi SaaS (Software as a Service)
 1. Yahoo Mail
 2. DropBox
 3. Google Apps
 4. Xero  
 
-#Arsitektur Saas
+# Arsitektur Saas
 
 ![](./Arsitektur.jpg)
