@@ -60,7 +60,7 @@
 
 - membuat dockerfile, untuk membangun image dan menyalin konten ke editor.
 
-![](image-06/14.png)
+![](image-06/14.1.png)
 
 2. Build Docker image
 
