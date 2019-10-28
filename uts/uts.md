@@ -24,7 +24,7 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
    ![](image-uts/9.png)
 
    DockerFile tersebut menggunakan nginx :alpine
-   ls : melihat file yang ada di folder uts : sebelumnya sudah membuat file bernama Dockerfile
+   ls : melihat file yang ada di folder uts : sebelumnya sudah membuat file bernama Dockerfile yang bisa diakses di https://github.com/shafirakp/tcc/blob/master/uts/Dockerfile
 
   ![](image-uts/1.png)
 
@@ -53,6 +53,8 @@ Sebelum mengupload docker image ke docker hub harus login terlebih dahulu. Setel
 
   ![](image-uts/7.png)
 
-8. jika sudah berhasil di push maka akan muncul image yang telah di push pada docker hub kita .
+8. jika sudah berhasil di push maka akan muncul image yang telah di push pada docker hub kita . Untuk mengakses nginx tersebut dapat diakses di URL https://hub.docker.com/r/shafiraakp/nginx/tags
 
 ![](image-uts/8.png)
+
+9. Docker images adalah sebuah template yang bersifat read only. Template ini sebenarnya adalah sebuah OS yang telah diinstall berbagai aplikasi. Docker images berfungsi untuk membuat docker container, menggunakan 1 docker images kita dapat membuat banyak docker container.
