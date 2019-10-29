@@ -23,6 +23,7 @@ Vendor atau provider menyediakan layanan IaaS biasanya terdiri dari berbagai spe
 
 # Keterkaitan antara SaaS, PaaS dan dockerfile
 ![](image-uts/12.jfif)
+
 # Upload File ke Docker Hub
 1. cd tcc : masuk ke folder tcc
    cd uts : masuk ke folder uts
@@ -67,7 +68,7 @@ Sebelum mengupload docker image ke docker hub harus login terlebih dahulu. Setel
 
 9. Docker images adalah sebuah template yang bersifat read only. Template ini sebenarnya adalah sebuah OS yang telah diinstall berbagai aplikasi. Docker images berfungsi untuk membuat docker container, menggunakan 1 docker images kita dapat membuat banyak docker container.
 
-10. Menajalankan docker dengan perintah docker run -d -p 8088:80 --name=shafira-nginx shafiraakp/nginx:uts yang artinya akan menjalankan docker yang ada di port 8088 (browser), dan docker akan mengarahkan ke service port 80 di container dengan nama shafiraakp/nginx:komputasi
+10. Menajalankan docker dengan perintah docker run -d -p 8088:80 --name=shafira-nginx shafiraakp/nginx:uts yang artinya akan menjalankan docker yang ada di port 8088 (browser), dan docker akan mengarahkan ke service port 80 di container dengan nama shafira-nginx
 
 ![](image-uts/10.png)
 
