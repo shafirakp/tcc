@@ -60,3 +60,11 @@ Sebelum mengupload docker image ke docker hub harus login terlebih dahulu. Setel
 ![](image-uts/8.png)
 
 9. Docker images adalah sebuah template yang bersifat read only. Template ini sebenarnya adalah sebuah OS yang telah diinstall berbagai aplikasi. Docker images berfungsi untuk membuat docker container, menggunakan 1 docker images kita dapat membuat banyak docker container.
+
+10. Menajalankan docker dengan perintah docker run -d -p 8088:80 --name=shafira-nginx shafiraakp/nginx:uts yang artinya akan menjalankan docker yang ada di port 8088 (browser), dan docker akan mengarahkan ke service port 80 di container dengan nama shafiraakp/nginx:komputasi
+
+![](image-uts/10.png)
+
+Saat Akses Ke browser
+
+![](image-uts/11.png)
