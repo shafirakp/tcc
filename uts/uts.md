@@ -25,11 +25,12 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
    ![](image-uts/1.png)
 
    DockerFile tersebut menggunakan nginx :alpine
+   meng-copy semua file di working directory (di folder uts) ke direktory /usr/share/nginx/html di image nginx.
    ls : melihat file yang ada di folder uts : sebelumnya sudah membuat file bernama Dockerfile yang bisa diakses di https://github.com/shafirakp/tcc/blob/master/uts/Dockerfile
 
   ![](image-uts/9.png)
 
-2. Membuat image nginx menggunakan file docker file tersebut dengan perintah : docker build -t (nama image:tag) . titik digunakan untuk mendeklarasikan bahwa dockerfile yang akan digunakan terdapat pada directory tersebut.
+2. Membuat image nginx menggunakan file docker file tersebut dengan perintah : docker build -t (nama image:tag) . titik digunakan untuk mendeklarasikan bahwa dockerfile yang akan digunakan terdapat pada directory tersebut. Perintah tersebut akan membuat image baru berdasarkan apa yang kita tulis di DocerFile. Jadi docker build akan mengambil image nginx:alphine dan mencopy semua yang working di direktoryke dalam folder/usr/share/nginx/html. Setelah selesai meng copy, membuat image baru dengan nama shafiraakp/nginx (nomer 5)
 
   ![](image-uts/2.png)
 
