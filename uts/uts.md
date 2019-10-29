@@ -16,17 +16,18 @@ atau sebagai layanan pribadi (perangkat lunak atau alat) di dalam firewall, atau
 SaaS (software as a service atau perangkat lunak berbentuk layanan) adalah suatu model penyampaian aplikasi perangkat lunak oleh suatu vendor perangkat lunak yang mengembangkan aplikasi web yang diinangi dan dioperasikan (baik secara mandiri maupun melalui pihak ketiga) untuk digunakan oleh pelanggannya melalui Internet.
 Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melainkan hanya untuk menggunakan. Pelanggan menggunakan perangkat lunak tersebut melalui antarmuka pemrograman aplikasi yang dapat diakses melalui web dan seringkali ditulis menggunakan layanan web atau REST.
 # Keterkaitan antara SaaS, PaaS dan dockerfile
+
 #Upload File ke Docker Hub
 1. cd tcc : masuk ke folder tcc
    cd uts : masuk ke folder uts
    membuat file docker file seperti di bawah ini
 
-   ![](image-uts/9.png)
+   ![](image-uts/1.png)
 
    DockerFile tersebut menggunakan nginx :alpine
    ls : melihat file yang ada di folder uts : sebelumnya sudah membuat file bernama Dockerfile yang bisa diakses di https://github.com/shafirakp/tcc/blob/master/uts/Dockerfile
 
-  ![](image-uts/1.png)
+  ![](image-uts/19.png)
 
 2. Membuat image nginx menggunakan file docker file tersebut dengan perintah : docker build -t (nama image:tag) . titik digunakan untuk mendeklarasikan bahwa dockerfile yang akan digunakan terdapat pada directory tersebut.
 
