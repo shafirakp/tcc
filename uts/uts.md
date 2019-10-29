@@ -15,8 +15,14 @@ atau sebagai layanan pribadi (perangkat lunak atau alat) di dalam firewall, atau
 
 SaaS (software as a service atau perangkat lunak berbentuk layanan) adalah suatu model penyampaian aplikasi perangkat lunak oleh suatu vendor perangkat lunak yang mengembangkan aplikasi web yang diinangi dan dioperasikan (baik secara mandiri maupun melalui pihak ketiga) untuk digunakan oleh pelanggannya melalui Internet.
 Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melainkan hanya untuk menggunakan. Pelanggan menggunakan perangkat lunak tersebut melalui antarmuka pemrograman aplikasi yang dapat diakses melalui web dan seringkali ditulis menggunakan layanan web atau REST.
-# Keterkaitan antara SaaS, PaaS dan dockerfile
 
+*Pengertian IaaS*
+
+IaaS atau Infrastructure as a Service, menurut bahasa indonesia adalah sebuah layanan INFRASTRUKTUR komputasi awan. Dalam arti lainnya IaaS adalah layanan komputasi awan yang umumnya berupa satu paket perangkat hardware komputer yang berupa “virtualisasi”, bersama dengan jaringan internet, bandwitch, dukungan alamat IP, keseimbangan beban, jaminan online secara realtime (terus menerus koneksi ke internet) dan keamanan dalam “ruang lingkup” satu unit layanan IaaS.
+Vendor atau provider menyediakan layanan IaaS biasanya terdiri dari berbagai spesifikasi, baik itu CPU, RAM dan Data Storage (biasanya SSD -bukan HDD-) dalam bentuk virtualisasi.
+
+# Keterkaitan antara SaaS, PaaS dan dockerfile
+![](image-uts/12.jfif)
 # Upload File ke Docker Hub
 1. cd tcc : masuk ke folder tcc
    cd uts : masuk ke folder uts
