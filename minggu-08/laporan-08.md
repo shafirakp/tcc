@@ -14,11 +14,11 @@
 
 4. Build images docker with command.
 
-![](image-08/4.png)
+![](image-08/4.1.png)
 
 5. Check images.
 
-![](image-08/4.1.png)
+![](image-08/5.png)
 
 6. Login Docker Hub.
 
