@@ -1,34 +1,34 @@
 # Pythhon+flask
 
 1. File app.py
-![](image-07/1.png)
+![](image-08/1.png)
 
 2. File requirements.txt
-![](image-07/2.png)
+![](image-08/2.png)
 
 3. File Dockerfile
-![](image-07/3.png)
+![](image-08/3.png)
 
 4. Build images docker with command
-![](image-07/4.png)
+![](image-08/4.png)
 
 5. Check images
-![](image-07/4.1.png)
+![](image-08/4.1.png)
 
 6. Login Docker Hub
-![](image-07/6.png)
+![](image-08/6.png)
 
 7. Push images
-![](image-07/7.png)
+![](image-08/7.png)
 
 8. Image in Docker Hub
 ![](image-07/8.png
 
 9. Run image with port 5000
-![](image-07/9.png)
+![](image-08/9.png)
 
 10. Check container
-![](image-07/10.png
+![](image-08/10.png)
 
 11. http://localhost5000
-![](image-07/11.png)
+![](image-08/11.png)
