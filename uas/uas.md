@@ -63,3 +63,7 @@ Pada pertemuan minggu-12 saya mengerjakan Instalasi Drupal.
 13. Pertemuan minggu-13 : https://github.com/shafirakp/tcc/tree/master/minggu-13
 
 Pada pertemuan minggu-13 saya mengerjakan Docker Swarm.
+
+14. UTS : https://github.com/shafirakp/tcc/tree/master/uts
+
+Mengerjakan Docker Image. 
