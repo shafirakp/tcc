@@ -1,4 +1,4 @@
-# Laporan Praktikum Pertemuan Minggu 02
+# Laporan Praktikum Pertemuan Minggu 05
 
 1. Install Docker di laptop
 2. Membuka terminal di laptop

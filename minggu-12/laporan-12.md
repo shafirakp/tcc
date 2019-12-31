@@ -35,7 +35,7 @@
 9. Konfigurasi Site, mengisi field .
 
 ![](image-12/9.1.png)
-![](image-12/9.1.png)
+![](image-12/9.2.png)
 
 10. Jika proses instalasi selesai maka akan muncul tampilan seperti di bawah ini .
 
